@@ -679,7 +679,5 @@ namespace PuzzlePro2D
             glControl1.SwapBuffers();
  
         }
-        
-       
     }
 }

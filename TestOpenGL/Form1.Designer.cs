@@ -47,10 +47,10 @@ namespace TestOpenGL
             // glControl1
             // 
             this.glControl1.BackColor = System.Drawing.Color.Black;
-            this.glControl1.Location = new System.Drawing.Point(113, 73);
+            this.glControl1.Location = new System.Drawing.Point(65, 13);
             this.glControl1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.glControl1.Name = "glControl1";
-            this.glControl1.Size = new System.Drawing.Size(200, 185);
+            this.glControl1.Size = new System.Drawing.Size(376, 279);
             this.glControl1.TabIndex = 0;
             this.glControl1.VSync = false;
             this.glControl1.Load += new System.EventHandler(this.glControl1_Load);
